@@ -1,2 +1,2 @@
 # NOXU
-Noxu's
+Noxu's ideas warehouse
